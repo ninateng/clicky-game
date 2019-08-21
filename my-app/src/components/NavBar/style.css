@@ -1,0 +1,43 @@
+
+.infoBar {
+    width: 100%;
+    background-color: purple;
+}
+
+.title {
+    text-align: center;
+    /* margin-left: 2%; */
+}
+
+.guess {
+    text-align: center;
+    /* margin-right: 50%; */
+}
+
+.score {
+    text-align: center;
+    /* margin-right: 3%; */
+}
+
+* {margin: 0; padding: 0;}
+#container {height: 100%; width:100%; font-size:0;}
+#left, #middle, #right {display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px;}
+#left {
+    width: 25%; 
+    background: lightskyblue;
+    height: 40px;
+    font-size: large;
+
+}
+#middle {
+    width: 50%; 
+    background: lightskyblue;
+    height: 40px;
+    font-size: large;
+}
+#right {
+    width: 25%; 
+    background: lightskyblue;
+    height: 40px;
+    font-size: large;
+}

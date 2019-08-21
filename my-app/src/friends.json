@@ -1,0 +1,60 @@
+[
+
+    {
+      "id": 1,
+      "count":0,
+      "name": "Squidward",
+      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head"
+    },
+    {
+      "id": 2,
+      "count":0,
+      "name": "Dexter",
+      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory"
+    },
+    {
+      "id": 3,
+      "count":0,
+      "name": "Doug Funnie",
+      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
+      "occupation": "Student",
+      "location": "Bluffington"
+    },
+    {
+      "id": 4,
+      "count":0,
+      "name": "Johnny Bravo",
+      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
+      "occupation": "Ladies Man",
+      "location": "Aron City"
+    },
+    {
+      "id": 5,
+      "count":0,
+      "name": "Tommy Pickles",
+      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
+      "occupation": "Adventurer",
+      "location": "California"
+    },
+    {
+      "id": 6,
+      "count":0,
+      "name": "Captain Planet",
+      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
+      "occupation": "Superhero",
+      "location": "Earth"
+    },
+    {
+      "id": 7,
+      "count":0,
+      "name": "Ickis",
+      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump"
+    }
+  ]
+  
