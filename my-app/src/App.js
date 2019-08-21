@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
 import friends from "./friends.json";
 import NavBar from "./components/NavBar"
 
@@ -76,10 +75,11 @@ class App extends Component {
           highScore={this.state.highScore}
           name={this.state.name}
         />
-        {/* <Title>Clickky Game</Title> */}
+        
         {this.state.friends.map(friend => (
 
           <FriendCard
+            key={friend.id}
             id={friend.id}
             name={friend.name}
             image={friend.image}
